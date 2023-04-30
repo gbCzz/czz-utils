@@ -1,2 +1,2 @@
 # czz-utils
-utils in javascript
+utils in javascript or typescript
